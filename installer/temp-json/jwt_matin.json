@@ -1,7 +1,0 @@
-{
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJiOTQxNWE5Ny0yN2RhLTRkNzUtYTg2ZC0yZGIyZDc1MTNhZmYiLCJpYXQiOjE3MDc4MTkyNDIsInVuaXF1ZV9uYW1lIjoic2FkcmEiLCJhY2Nlc3MtbGV2ZWwiOiI2MmI3ZGY0M2U5NGQ0MzcxYzU3OWQxNDEiLCJuYmYiOjE3MDc4MTkyNDIsImV4cCI6MTcwNzg1NTI0Mn0.hHwULAjqrTNdNT8DiCdDzMuOwD4THZPTo1MmCVf9HyQ",
-    "tokenExpireTimeInMinute": 600,
-    "userId": "62adbedf301d7ad64ef9aaf0",
-    "userName": "sadra",
-    "accessLevelId": "62b7df43e94d4371c579d141"
-}
